@@ -76,33 +76,33 @@ AvatarMask:
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001
     m_Weight: 1
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 L Thigh001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 L Thigh001/Bip001
       L Calf001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 L Thigh001/Bip001
       L Calf001/Bip001 L Foot001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 L Thigh001/Bip001
       L Calf001/Bip001 L Foot001/Bip001 L Toe001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 L Thigh001/Bip001
       L Calf001/Bip001 L Foot001/Bip001 L Toe001/Bip001 L Toe0Nub001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 R Thigh001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 R Thigh001/Bip001
       R Calf001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 R Thigh001/Bip001
       R Calf001/Bip001 R Foot001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 R Thigh001/Bip001
       R Calf001/Bip001 R Foot001/Bip001 R Toe001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 R Thigh001/Bip001
       R Calf001/Bip001 R Foot001/Bip001 R Toe001/Bip001 R Toe0Nub001
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 Spine001
     m_Weight: 1
   - m_Path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip002/Bip001 Pelvis001/Bip001 Spine001/Bip001
